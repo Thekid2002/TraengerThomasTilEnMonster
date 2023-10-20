@@ -1,5 +1,5 @@
 
-let traenger = true;
+let traenger = false;
 let answer = document.getElementById("answer")
 
 if(traenger) {
